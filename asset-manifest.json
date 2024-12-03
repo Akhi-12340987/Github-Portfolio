@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Github-Portfolio/static/css/main.0e1c5033.css",
+    "main.js": "/Github-Portfolio/static/js/main.d85a7a4d.js",
+    "static/js/453.d0ded385.chunk.js": "/Github-Portfolio/static/js/453.d0ded385.chunk.js",
+    "static/media/fa-solid-900.ttf": "/Github-Portfolio/static/media/fa-solid-900.ad1782c70927ebc5bc87.ttf",
+    "static/media/fa-brands-400.ttf": "/Github-Portfolio/static/media/fa-brands-400.26b80c8830bebf340211.ttf",
+    "static/media/fa-solid-900.woff2": "/Github-Portfolio/static/media/fa-solid-900.83a538a018a9e44b023a.woff2",
+    "static/media/fa-brands-400.woff2": "/Github-Portfolio/static/media/fa-brands-400.fdbb558523a380307689.woff2",
+    "static/media/fa-regular-400.ttf": "/Github-Portfolio/static/media/fa-regular-400.05fdd87be89f7f8f0a1e.ttf",
+    "static/media/fa-regular-400.woff2": "/Github-Portfolio/static/media/fa-regular-400.4f6a2dabee9c092d09b9.woff2",
+    "static/media/fa-v4compatibility.ttf": "/Github-Portfolio/static/media/fa-v4compatibility.fa86b3c85e77abbd2ebd.ttf",
+    "static/media/fa-v4compatibility.woff2": "/Github-Portfolio/static/media/fa-v4compatibility.c3ea317a0f10f201597f.woff2",
+    "index.html": "/Github-Portfolio/index.html",
+    "main.0e1c5033.css.map": "/Github-Portfolio/static/css/main.0e1c5033.css.map",
+    "main.d85a7a4d.js.map": "/Github-Portfolio/static/js/main.d85a7a4d.js.map",
+    "453.d0ded385.chunk.js.map": "/Github-Portfolio/static/js/453.d0ded385.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e1c5033.css",
+    "static/js/main.d85a7a4d.js"
+  ]
+}
